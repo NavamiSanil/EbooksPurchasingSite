@@ -1,0 +1,99 @@
+
+html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
+
+a{background-color:transparent}
+a:active,a:hover{outline-width:0}
+
+
+.btn,.button{border:none;
+display:inline-block;
+padding:8px 16px;
+vertical-align:middle;
+overflow:hidden;
+text-decoration:none;
+color:inherit;
+background-color:inherit;
+text-align:center;
+cursor:pointer;
+white-space:nowrap}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: black;
+  background-color: transparent;
+  text-decoration:none;
+}
+
+#prev a{
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+#prev a:hover {
+  background-color: black;
+  color: white;
+}
+
+
+.sidebar{height:100%;
+width:200px;
+background-color:#fff;
+position:fixed;
+z-index:1;
+overflow:auto}
+
+.bar-block .bar-item{width:100%;
+display:block;
+padding:8px 16px;
+text-align:left;
+border:none;
+white-space:normal;
+float:none;
+outline:0}
+
+.bar-block.center .bar-item{text-align:center}
+.block{display:block;width:100%}
+
+.row-padding:after,.row-padding:before,
+.bar:before,.bar:after{content:"";display:table;clear:both}
+
+
+.image{float:left;width:100%}
+.image{width:24.99999%}
+
+
+
+.content{margin-left:auto;margin-right:auto}
+.content{max-width:980px}
+.bar-item{text-align:center}
+.btn,.mobile.button,.mobile .btn,.Mobile .button{width:100%}}
+.top,.bottom{position:fixed;width:100%;z-index:1}.top{top:0}.bottom{bottom:0}
+.row-padding,.row-padding>.image,.row-padding>.col{padding:0 8px}
+.large{font-size:18p}
+.xlarge{font-size:24px}
+.center{text-align:center}
+.padding-16{padding-top:16px}
+.padding-32{padding-top:32px}
+.left{float:left}.right{float:right}
+.button:hover{color:#000 ;background-color:#ccc}
+
+
+
